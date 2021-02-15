@@ -1,6 +1,6 @@
 # Title: Assignment 09 - README Generator
 
-Last Updated: Mon Feb 15 2021 08:54:15 GMT-0500 (Eastern Standard Time) 
+Last Updated: Mon Feb 15 2021 13:08:15 GMT-0500 (Eastern Standard Time) 
 
 # Description: 
 
@@ -90,3 +90,14 @@ See Current Rendering at the time of writing in the Assignment09 Repo.
 ![alt text](Assets/README_SCREENSHOT3.png)
 
 Video link:  https://drive.google.com/file/d/1i738OXpc2ozmwoIRLpu_0LhWhJoaRQYe/view?usp=sharing
+
+Useful links I used to complet assignment: 
+
+https://github.github.com/gfm/
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://youtu.be/xdNIia7Z2RE
+
+https://medium.com/javascript-in-plain-english/how-to-inquirer-js-c10a4e05ef1f
+
