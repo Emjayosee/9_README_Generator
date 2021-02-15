@@ -1,0 +1,11 @@
+{
+  "name": "assignment09-prep",
+  "version": "1.0.0",
+  "description": "Last Updated: Sun Feb 14 2021 18:45:32 GMT-0500 (Eastern Standard Time)",
+  "main": "Homework2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
