@@ -8,6 +8,8 @@ When creating an open source project on GitHub, it’s important to have a high-
 
 # Table of Contents
 
+   * [Title: Assignment 09 - README Generator](#title-assignment-09---readme-generator)
+   * [Description:](#description)
    * [Table of Contents](#table-of-contents)
    * [01 Goal](#01-goal)
    * [02 Approach](#02-approach)
@@ -20,6 +22,7 @@ When creating an open source project on GitHub, it’s important to have a high-
    * [09 Improvements for the Future](#09-improvements-for-the-future)
    * [10 Questions](#10-questions)
       * [Contact Details:](#contact-details)
+   * [11 Current Renderings](#11-current-renderings)
 
 # 01 Goal 
 
@@ -78,10 +81,12 @@ GITHUB: https://github.com/Emjayosee
 
 Email: michael.j.oconnor@me.com
 
-# Current Renderings:
+# 11 Current Renderings
 
 See Current Rendering at the time of writing in the Assignment09 Repo. 
+
 ![alt text](Assets/README_SCREENSHOT1.png)
 ![alt text](Assets/README_SCREENSHOT2.png)
 ![alt text](Assets/README_SCREENSHOT3.png)
 
+Video link:  https://drive.google.com/file/d/1i738OXpc2ozmwoIRLpu_0LhWhJoaRQYe/view?usp=sharing
