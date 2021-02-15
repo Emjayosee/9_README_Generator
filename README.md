@@ -91,7 +91,7 @@ See Current Rendering at the time of writing in the Assignment09 Repo.
 
 Video link:  https://drive.google.com/file/d/1i738OXpc2ozmwoIRLpu_0LhWhJoaRQYe/view?usp=sharing
 
-Useful links I used to complet assignment: 
+Useful links I used to complete this assignment: 
 
 https://github.github.com/gfm/
 
