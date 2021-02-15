@@ -78,3 +78,10 @@ GITHUB: https://github.com/Emjayosee
 
 Email: michael.j.oconnor@me.com
 
+# Current Renderings:
+
+See Current Rendering at the time of writing in the Assignment09 Repo. 
+![alt text](Assets/README_SCREENSHOT1.png)
+![alt text](Assets/README_SCREENSHOT2.png)
+![alt text](Assets/README_SCREENSHOT3.png)
+
